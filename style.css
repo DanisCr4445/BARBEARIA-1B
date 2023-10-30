@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+    color:white;
+}
+
+h1 {
+    color:blue;
+}
+
+p {
+    color:red;
+}
+
+h2 {
+    color:gold;
+}
+
+ul {
+    color:cyan;
+}
+
+li {
+    color:coral;
+}
