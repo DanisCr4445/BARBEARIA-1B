@@ -36,6 +36,11 @@ li {
     color:coral;
 }
 
+.imagem-1 {
+    width: 40%;
+    align-items: center;
+}
+
 footer {
     background-color:aquamarine;
     color:black;
