@@ -1,3 +1,8 @@
+header {
+    background-color:aquamarine;
+    Color: black;
+}
+
 body {
     background-color: aqua;
     color:white;
@@ -5,6 +10,14 @@ body {
 
 h1 {
     color:blue;
+}
+
+paragrafo-1 {
+    color:black;
+}
+
+paragrafo-2 {
+    color:black;
 }
 
 p {
@@ -21,4 +34,9 @@ ul {
 
 li {
     color:coral;
+}
+
+footer {
+    background-color:aquamarine;
+    color:black;
 }
