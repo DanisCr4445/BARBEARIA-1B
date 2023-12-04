@@ -3,6 +3,12 @@ header {
     Color: black;
 }
 
+.imagem-cabecalho {
+    width: 40%;
+    align-items: center;
+    margin-left: 700px;
+}
+
 body {
     background-color: aqua;
     color:white;
